@@ -71,7 +71,7 @@
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": true,
-         "value": ""DQHFT9MN8W09""
+         "value": "DQHFT9MN8W09"
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Saitama support then keep the current ID's here at they are and add yours.",
