@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/4a3e516e7776f189a6460.jpg">
+  <img src="https://telegra.ph/file/21605b3dfef2fe3577036.jpg">
 </p>
 
 # ☕ Coffee ☕
