@@ -1,5 +1,5 @@
 {
-      "name": "Coffee-Backup",
+      "name": "CoffeeXRobot",
       "description": "A Powerful Pro Bot for group management around telegram.",
       "keywords": [
          "telegram",
@@ -8,8 +8,8 @@
          "manager",
          "Saitama"
       ],   
-   "repository": "https://github.com/ShrayanshSharma2710/Coffee-Backup",
-    "logo": "https://telegra.ph/file/f9956f843c18a9d25c96a.jpg",
+   "repository": "https://github.com/ShrayanshSharma2710/CoffeeXRobot",
+    "logo": "https://telegra.ph/file/21605b3dfef2fe3577036.jpg",
    "addons": [
       {
          "options": {
@@ -22,7 +22,7 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": "1766175309:AAGjjhWwkhYOinr3y5-BXVlT4O5GZGY3fM8"
+         "value": "1799555145:AAEe2rKDt5AdiXmEfQZiLX-MtzVCKtzRGHI"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
