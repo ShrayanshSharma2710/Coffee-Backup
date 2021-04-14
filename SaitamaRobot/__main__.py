@@ -80,7 +80,7 @@ You can find my list of available commands by pressing help button below.
 """
 
 HELP_STRINGS = """
-*Main* commands available [:](https://telegra.ph/file/4a3e516e7776f189a6460.jpg)
+*Main* commands available [:](https://telegra.ph/file/21605b3dfef2fe3577036.jpg)
 
  • /help: PM's you this message.
  • /help <module name>: PM's you info about that module.
@@ -215,7 +215,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="👑 Add Winnie to your group",
+                                text="👑 Add Coffee to your group",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -228,7 +228,7 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel",
-                                url="https://t.me/CoffeeXUpdates",
+                                url="https://t.me/CoffeeXNews",
                             ),
                         ],
                         [
