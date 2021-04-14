@@ -93,7 +93,7 @@ HELP_STRINGS = """
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/4a3e516e7776f189a6460.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/21605b3dfef2fe3577036.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](https://www.paypal.me/ShrayanshSharma27) or by contacting @ShrayanshSharma \
@@ -228,23 +228,23 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel",
-                                url="https://t.me/Coffee_Updates",
+                                url="https://t.me/CoffeeXUpdates",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text=" ✨ Help ",
-                                url="https://t.me/MissCoffeeBot?start=help",
+                                url="https://t.me/CoffeeXRobot?start=help",
                             ),
                             InlineKeyboardButton(
                                 text=" ⚡️ Get Started ",
-                                url="https://t.me/Coffee_Updates/3",
+                                url="https://t.me/CoffeeXNews/3",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text=" ✍️ Mai Repo ✍️ ",
-                                url="https://t.me/Coffee_Updates/4",
+                                url="https://t.me/CoffeeXNews/4",
                             )
                         ],
                     ]
